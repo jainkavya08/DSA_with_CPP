@@ -38,6 +38,8 @@ int main()
     cin>> ch;
     cout <<ch;
 
+    int x;
+
     return 0;
     
 }
