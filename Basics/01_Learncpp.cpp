@@ -1,10 +1,11 @@
 #include <iostream>
 //#include <math.h> // for mathematical functions
 //#include <string> // for a string
+using namespace std;
 
 int main () 
 {
-    std::cout <<"Hey Kavya !" <<std::endl << " Hey Raj! " << std::endl;
-    std::cout <<"Hey Kavya !" <<std::endl;
+    cout <<"Hey Kavya !" <<endl << " Hey Raj! " << endl;
+    cout <<"Hey Kavya !" <<endl;
     return 0;
 }
